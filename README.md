@@ -1,5 +1,2 @@
 # Autoware_demo1
-jgjg
-hkjhnk
-khkh
-hjkhk
+This is a demo for changes in Autoware software stack
